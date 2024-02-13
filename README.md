@@ -4,7 +4,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BE823A&title_bg=%2375449E&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome&fontSize=70&color=0:D2691E,100:D2691E&stroke=D2691E)
+
 
 
 ![baejunghyun1's GitHub stats](https://github-readme-stats.vercel.app/api?username=baejunghyun1&hide=contribs,prs&show_icons=true&theme=graywhite)
