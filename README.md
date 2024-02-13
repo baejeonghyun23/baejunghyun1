@@ -6,6 +6,8 @@
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome&fontSize=70&fontColor=4D377B&color=0:C2B280,100:B5651D&stroke=3C1A7D)
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&fontColor=4D377B&color=0:C2B280,100:B5651D)
+
 
 
 
