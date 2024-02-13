@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 ![baejunghyun1's github stats](https://github-readme-stats.vercel.app/api?username=baejunghyun1&show_icons=true)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23EBC8C8&icon=iconify.svg&icon_color=%23F9F7F7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
