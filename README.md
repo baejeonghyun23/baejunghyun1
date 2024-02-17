@@ -13,6 +13,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejunghyun1\&layout=compact)
-
-
-![baejunghyun1's github stats](https://github-readme-stats.vercel.app/api?username=baejunghyun1&show_icons=true)
